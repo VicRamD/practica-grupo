@@ -1,3 +1,3 @@
 console.log("Este es dos");
 
-console.log("Hola + Parte borrada");
+console.log("Conteo 1, 2, 3, 4 ,5 ,6");
